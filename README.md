@@ -1,1 +1,1 @@
-# redux-app
+Slider app to demonstrate redux library
